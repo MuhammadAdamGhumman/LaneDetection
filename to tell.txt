@@ -1,0 +1,27 @@
+if g[y,x][0] in range(0, 100) and g[y,x][1] in range(0,30) and g[y,x][2] in range(180,255): #white
+
+
+12
+colour range:
+if g[y,x][0] in range(0, 100) and g[y,x][1] in range(0,30) and g[y,x][2] in range(120,255): #white
+
+13
+colour range:
+if g[y,x][0] in range(0, 100) and g[y,x][1] in range(0,30): #white
+
+
+15
+Get perfect region warna masley
+
+24
+Angle range:
+if((np.rad2deg(thetas[c])) in range(45, 70)):
+
+Change the colour range of white to this
+if g[y,x][0] in range(0, 100) and g[y,x][1] in range(0,30) and g[y,x][2] in range(180,255):
+
+and change the postive angles in the 'if' statement for theta to
+if((np.rad2deg(thetas[c])) in range(45, 70)):
+
+
+
